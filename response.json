@@ -1,0 +1,838 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 614,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "JxXWcQNmDW4C",
+   "etag": "OJlKhhFWUhA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JxXWcQNmDW4C",
+   "volumeInfo": {
+    "title": "Grade 6 Math Test - Parent Guide",
+    "publisher": "On The Mark Press",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781770726642"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1770726640"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=JxXWcQNmDW4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=JxXWcQNmDW4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=JxXWcQNmDW4C&pg=PA25&dq=123456&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JxXWcQNmDW4C&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-JxXWcQNmDW4C"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30713.0,
+     "currencyCode": "COP"
+    },
+    "retailPrice": {
+     "amount": 20885.0,
+     "currencyCode": "COP"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JxXWcQNmDW4C&rdid=book-JxXWcQNmDW4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.0713E10,
+       "currencyCode": "COP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.0885E10,
+       "currencyCode": "COP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Grade_6_Math_Test_Parent_Guide-sample-epub.acsm?id=JxXWcQNmDW4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Grade_6_Math_Test_Parent_Guide-sample-pdf.acsm?id=JxXWcQNmDW4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JxXWcQNmDW4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... 1234567 1234567 1234567 \u003cb\u003e123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4wO8nha3CkIC",
+   "etag": "k8oeP6s1/fc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4wO8nha3CkIC",
+   "volumeInfo": {
+    "title": "Superelements User's Guide",
+    "subtitle": "MSC Nastran 2012",
+    "authors": [
+     "MSC Software"
+    ],
+    "publisher": "MSC Software",
+    "publishedDate": "2012-03-30",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781585240166"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1585240168"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=4wO8nha3CkIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=4wO8nha3CkIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=4wO8nha3CkIC&pg=PT470&dq=123456&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.co/books?id=4wO8nha3CkIC&dq=123456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Superelements_User_s_Guide.html?hl=&id=4wO8nha3CkIC"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Superelements_User_s_Guide-sample-epub.acsm?id=4wO8nha3CkIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Superelements_User_s_Guide-sample-pdf.acsm?id=4wO8nha3CkIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=4wO8nha3CkIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EXTRN 20449 \u003cb\u003e123456\u003c/b\u003e 20450 \u003cb\u003e123456\u003c/b\u003e 20451 \u003cb\u003e123456\u003c/b\u003e 20452 \u003cb\u003e123456\u003c/b\u003e 20453 \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e 20454 \u003cb\u003e123456\u003c/b\u003e 20455 \u003cb\u003e123456\u003c/b\u003e 20456 \u003cb\u003e123456\u003c/b\u003e 20457 \u003cb\u003e123456\u003c/b\u003e 20458 \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e 20459 \u003cb\u003e123456\u003c/b\u003e 20460 \u003cb\u003e123456\u003c/b\u003e 20461 \u003cb\u003e123456\u003c/b\u003e 20462 \u003cb\u003e123456\u003c/b\u003e 20463 \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xlK3AwAAQBAJ",
+   "etag": "M6vJbHB6mOY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xlK3AwAAQBAJ",
+   "volumeInfo": {
+    "title": "The Resilience of Language",
+    "subtitle": "What Gesture Creation in Deaf Children Can Tell Us About How All Children Learn Language",
+    "authors": [
+     "Susan Goldin-Meadow"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2005-04-05",
+    "description": "Imagine a child who has never seen or heard any language at all. Would such a child be able to invent a language on her own? Despite what one might guess, the children described in this book make it clear that the answer to this question is 'yes'. The children are congenitally deaf and cannot learn the spoken language that surrounds them. In addition, they have not yet been exposed to sign language, either by their hearing parents or their oral schools. Nevertheless, the children use their hands to communicate - they gesture - and those gestures take on many of the forms and functions of language. The properties of language that we find in the deaf children's gestures are just those properties that do not need to be handed down from generation to generation, but can be reinvented by a child de novo - the resilient properties of language. This book suggests that all children, deaf or hearing, come to language-learning ready to develop precisely these language properties. In this way, studies of gesture creation in deaf children can show us the way that children themselves have a large hand in shaping how language is learned.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781135433390"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1135433399"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xlK3AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xlK3AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=xlK3AwAAQBAJ&pg=PA107&dq=123456&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.co/books?id=xlK3AwAAQBAJ&dq=123456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Resilience_of_Language.html?hl=&id=xlK3AwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xlK3AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... P r o b a b ility \u003cb\u003e123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ndtn1HS858QC",
+   "etag": "65kD00QT0UA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ndtn1HS858QC",
+   "volumeInfo": {
+    "title": "Piano Theory, Level 2",
+    "authors": [
+     "Mary Elizabeth Clark",
+     "David Carr Glover"
+    ],
+    "publisher": "Alfred Music",
+    "publishedDate": "1999-12-15",
+    "description": "The Theory Books of the David Carr Glover Piano Library are written in \"programed instruction\" style, one of the most effective means of learning in modern education. Programed instruction is based on three generally accepted principles: 1. The material is presented in small steps called \"frames.\" 2. The student makes an immediate written response to each frame so that his learning is constantly checked. 3. The student knows if his answer is correct. The Theory Books are written for the Preparatory Age piano student. However, the fundamentals of music are presented in a logical order making the books useful for any beginner. The Theory books are correlated to the David Carr Glover Piano Library, but can be used with any course on music of this level of advancement.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1457464055"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781457464058"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Ndtn1HS858QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Ndtn1HS858QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=Ndtn1HS858QC&pg=PA23&dq=123456&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Ndtn1HS858QC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Ndtn1HS858QC"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 25112.0,
+     "currencyCode": "COP"
+    },
+    "retailPrice": {
+     "amount": 17076.0,
+     "currencyCode": "COP"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Ndtn1HS858QC&rdid=book-Ndtn1HS858QC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.5112E10,
+       "currencyCode": "COP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.7076E10,
+       "currencyCode": "COP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Piano_Theory_Level_2-sample-pdf.acsm?id=Ndtn1HS858QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Ndtn1HS858QC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e ?fi JJJJ \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456\u003c/b\u003e J -N f J. \u003cb\u003e123456 123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456\u003c/b\u003e 30. 6 \u003cb\u003e123456\u003c/b\u003e 123456123456 U J- J j.iJ JJ73ir- r \u003cb\u003e123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Q9jLBQAAQBAJ",
+   "etag": "Fs4cq2hff/Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Q9jLBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Handbook of Combinatorial Designs, Second Edition",
+    "authors": [
+     "Charles J. Colbourn",
+     "Jeffrey H. Dinitz"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2006-11-02",
+    "description": "Continuing in the bestselling, informative tradition of the first edition, the Handbook of Combinatorial Designs, Second Edition remains the only resource to contain all of the most important results and tables in the field of combinatorial design. This handbook covers the constructions, properties, and applications of designs as well as existence results. Over 30% longer than the first edition, the book builds upon the groundwork of its predecessor while retaining the original contributors' expertise. The first part contains a brief introduction and history of the subject. The following parts focus on four main classes of combinatorial designs: balanced incomplete block designs, orthogonal arrays and Latin squares, pairwise balanced designs, and Hadamard and orthogonal designs. Closely connected to the preceding sections, the next part surveys 65 additional classes of designs, such as balanced ternary, factorial, graphical, Howell, quasi-symmetric, and spherical. The final part presents mathematical and computational background related to design theory. New to the Second Edition An introductory part that provides a general overview and a historical perspective of the area New chapters on the history of design theory, various codes, bent functions, and numerous types of designs Fully updated tables, including BIBDs, MOLS, PBDs, and Hadamard matrices Nearly 2,200 references in a single bibliographic section Meeting the need for up-to-date and accessible tabular and reference information, this handbook provides the tools to understand combinatorial design theory and applications that span the entire discipline. The author maintains a website with more information.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781420010541"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1420010549"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1016,
+    "printType": "BOOK",
+    "categories": [
+     "Mathematics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Q9jLBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Q9jLBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=Q9jLBQAAQBAJ&pg=PA172&dq=123456&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Q9jLBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-Q9jLBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 172446.0,
+     "currencyCode": "COP"
+    },
+    "retailPrice": {
+     "amount": 131867.0,
+     "currencyCode": "COP"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Q9jLBQAAQBAJ&rdid=book-Q9jLBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.72446E11,
+       "currencyCode": "COP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.31867E11,
+       "currencyCode": "COP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Handbook_of_Combinatorial_Designs_Second-sample-pdf.acsm?id=Q9jLBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Q9jLBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "123456789 231564897 312645978 4567891.23 564897231 645978.312 789 \u003cbr\u003e\n\u003cb\u003e123456\u003c/b\u003e 897.231564 978.312645 a,0 123456789 4567891.23 789 \u003cb\u003e123456\u003c/b\u003e \u003cbr\u003e\n312645978 645978.312 978.312645 231564897 564897.231 897.231564 a,0&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "8h83z_VnrOgC",
+   "etag": "+afh9O+WUdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/8h83z_VnrOgC",
+   "volumeInfo": {
+    "title": "Simple Steps to Snare Drum",
+    "authors": [
+     "Anthony J. Cirone"
+    ],
+    "publisher": "Alfred Music",
+    "description": "For the beginning percussionist, expert instruction in the rudiments of the snare drum. Detail-oriented, teaching the specific skills for the instrument.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1457458209"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781457458200"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 56,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=8h83z_VnrOgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=8h83z_VnrOgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=8h83z_VnrOgC&pg=PA41&dq=123456&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.co/books?id=8h83z_VnrOgC&dq=123456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Simple_Steps_to_Snare_Drum.html?hl=&id=8h83z_VnrOgC"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Simple_Steps_to_Snare_Drum-sample-pdf.acsm?id=8h83z_VnrOgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=8h83z_VnrOgC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Count 1 23456 Play R L R L \u003cb\u003e123456\u003c/b\u003e R L R L \u003cb\u003e123456\u003c/b\u003e R L R L \u003cb\u003e123456\u003c/b\u003e R L R L ^- \u003cbr\u003e\nJJJJ- ~ J J J J- J J J J- -6 2. Count \u003cb\u003e123456 123456 123456 123456\u003c/b\u003e Play R LR LR \u003cbr\u003e\nLR LR LR LR LR L J&gt;,J J&gt;J J&gt;,J J&gt;J dS: Count \u003cb\u003e123456 123456 123456\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fByERAAACAAJ",
+   "etag": "xbhX7Rw9jHE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fByERAAACAAJ",
+   "volumeInfo": {
+    "title": "123456",
+    "subtitle": "A Series of Exhibitions of Recent Works by Salle Werner, Vernon Fisher, Trudy Sween, Lee Baxter Davis, Letitia Eldredge and Richard Stout",
+    "authors": [
+     "Tyler Museum of Art",
+     "Salle Werner",
+     "Lee Baxter Davis",
+     "Trudy Sween",
+     "Vernon Fisher",
+     "Letitia Eldredge",
+     "Richard Stout"
+    ],
+    "publishedDate": "1973",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:47713103"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "categories": [
+     "Art, American"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=fByERAAACAAJ&dq=123456&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.co/books?id=fByERAAACAAJ&dq=123456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/123456.html?hl=&id=fByERAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=fByERAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xaJRhhzulgwC",
+   "etag": "kbu4Skduo20",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xaJRhhzulgwC",
+   "volumeInfo": {
+    "title": "Minority Students in Special and Gifted Education",
+    "authors": [
+     "National Research Council",
+     "Division of Behavioral and Social Sciences and Education",
+     "Board on Behavioral, Cognitive, and Sensory Sciences",
+     "Committee on Minority Representation in Special Education"
+    ],
+    "publisher": "National Academies Press",
+    "publishedDate": "2002-08-30",
+    "description": "Special education and gifted and talented programs were designed for children whose educational needs are not well met in regular classrooms. From their inceptions, these programs have had disproportionate representation of racial and ethnic minority students. What causes this disproportion? Is it a problem? Minority Students in Special and Gifted Education considers possible contributors to that disparity, including early biological and environmental influences and inequities in opportunities for preschool and K-12 education, as well as the possibilities of bias in the referral and assessment system that leads to placement in special programs. It examines the data on early childhood experience, on differences in educational opportunity, and on referral and placement. The book also considers whether disproportionate representation should be considered a problem. Do special education programs provide valuable educational services, or do they set students off on a path of lower educational expectations? Would students not now placed in gifted and talented programs benefit from raised expectations, more rigorous classes, and the gifted label, or would they suffer failure in classes for which they are unprepared? By examining this important problem in U.S. education and making recommendations for early intervention and general education, as well as for changes in referral and assessment processes, Minority Students in Special and Gifted Education will be an indispensable resource to educators throughout the nation, as well as to policy makers at all levels, from schools and school districts to the state and federal governments.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780309170819"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0309170818"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 496,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.7.6.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=xaJRhhzulgwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=xaJRhhzulgwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=xaJRhhzulgwC&pg=PT128&dq=123456&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=xaJRhhzulgwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-xaJRhhzulgwC"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 314264.0,
+     "currencyCode": "COP"
+    },
+    "retailPrice": {
+     "amount": 219985.0,
+     "currencyCode": "COP"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=xaJRhhzulgwC&rdid=book-xaJRhhzulgwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.14264E11,
+       "currencyCode": "COP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.19985E11,
+       "currencyCode": "COP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=xaJRhhzulgwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "http://www.nap.edu/catalog/10128.html 116 MINORITY STUDENTS IN SPECIAL \u003cbr\u003e\nAND GIFTED EDUCATION 40 30 20 P e r c e n t 10 0 A \u003cb\u003e123456 123456 123456\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456 123456 123456 123456 123456\u003c/b\u003e 1 2 3 4 5 6&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WNM1vgAACAAJ",
+   "etag": "VN+H2L7ICl4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WNM1vgAACAAJ",
+   "volumeInfo": {
+    "title": "Passwords",
+    "subtitle": "123456",
+    "authors": [
+     "Barbara Sabet"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2016-10-16",
+    "description": "Tired of forgetting your passwords, and having to reset them? Well, here is a handy little password journal for you. Organize your passwords in a simple manner and have them right at your fingertips. Competitive price!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1539458075"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781539458074"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WNM1vgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WNM1vgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=WNM1vgAACAAJ&dq=123456&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.co/books?id=WNM1vgAACAAJ&dq=123456&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Passwords.html?hl=&id=WNM1vgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WNM1vgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Tired of forgetting your passwords, and having to reset them? Well, here is a handy little password journal for you. Organize your passwords in a simple manner and have them right at your fingertips. Competitive price!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9Nl9tZEHUtwC",
+   "etag": "epOxJ/MxUpg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9Nl9tZEHUtwC",
+   "volumeInfo": {
+    "title": "Alfred's Teach Yourself to Play Recorder",
+    "subtitle": "Learn How to Play Recorder with this Complete Course!",
+    "authors": [
+     "Morton Manus"
+    ],
+    "publisher": "Alfred Music",
+    "publishedDate": "2005-05-03",
+    "description": "Learn to play the recorder and open up a brand new world of musical knowledge with this exciting method from Alfred. Beginners of all ages can start their journey to a lifetime of musical enjoyment. Beginning with the fundamentals, you will learn about choosing a recorder, how to care for your very own, how to hold it, producing a tone, and getting acquainted with standard musical notation. You will then move right along to playing different notes and songs, lesson by lesson, all while continuing to increase your knowledge of reading and understanding standard musical notation. You will be exposed to many periods of music history, from the 16th-century beauty of Greensleeves to When the Saints Go Marching In, Amazing Grace, La Bamba, This Land Is Your Land and dozens of others. The book features the following resources for reference during and after your lessons: * Complete note and fingering chart * Duets that can be played with others Be your own teacher, and let Alfred be your resource every step of the way.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1457439913"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781457439919"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Music"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9Nl9tZEHUtwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9Nl9tZEHUtwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.co/books?id=9Nl9tZEHUtwC&pg=PA50&dq=123456&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9Nl9tZEHUtwC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-9Nl9tZEHUtwC"
+   },
+   "saleInfo": {
+    "country": "CO",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40827.0,
+     "currencyCode": "COP"
+    },
+    "retailPrice": {
+     "amount": 27762.0,
+     "currencyCode": "COP"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9Nl9tZEHUtwC&rdid=book-9Nl9tZEHUtwC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.0827E10,
+       "currencyCode": "COP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.7762E10,
+       "currencyCode": "COP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "CO",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.co/books/download/Alfred_s_Teach_Yourself_to_Play_Recorder-sample-pdf.acsm?id=9Nl9tZEHUtwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9Nl9tZEHUtwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Count: 1 23456 \u003cb\u003e123456 123456 123456\u003c/b\u003e Here are some fragments of familiar \u003cbr\u003e\ntunes that should be counted in six: Drink to Me Only with Thine Eyes Andante \u003cbr\u003e\n\u003cb\u003e123456 123456 123456 123456\u003c/b\u003e Un Canadien Errant Andante Blow the Man \u003cbr\u003e\nDown&nbsp;..."
+   }
+  }
+ ]
+}
